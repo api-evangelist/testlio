@@ -1,7 +1,29 @@
 aid: testlio
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/testlio.png
 name: Testlio
-description: Testlio is a company surfaced as a portfolio company of techstars and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Testlio is a managed software testing and quality assurance company that pairs
+  a global, vetted community of expert testers with a testing-management platform
+  (powered by its Leo AI Engine) to deliver on-demand manual, automated,
+  functional, regression, payments, localization, accessibility, usability, and
+  AI testing across web, mobile, streaming, and voice experiences. Founded in
+  Estonia and headquartered in Austin, Texas, Testlio is a Techstars-backed
+  company serving enterprise engineering and QA teams. It exposes no public REST
+  API; the platform integrates with engineering toolchains (Jira, GitHub, Azure
+  DevOps, GitLab, TestRail, Xray, Slack, BrowserStack, SauceLabs, Playwright) and
+  ships first-party CI/CD integrations, including a CircleCI orb and a Jenkins
+  plugin, alongside a documented Trust Center.
 url: https://raw.githubusercontent.com/api-evangelist/testlio/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,10 +32,23 @@ x-backed-by:
 x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 5
+  pass: local-v1
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Testing
+- Quality Assurance
+- QA
+- Software Testing
+- Crowdsourced Testing
+- Test Automation
+- Mobile App Testing
+- DevOps
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +58,30 @@ maintainers:
 common:
 - type: Website
   url: https://testlio.com/
+- type: Login
+  url: https://platform.testlio.com/login
+- type: Support
+  url: https://help.testlio.com/en/
+- type: Documentation
+  url: https://help.testlio.com/en/
+- type: Blog
+  url: https://www.testlio.com/blog
+- type: TermsOfService
+  url: https://www.testlio.com/terms
+- type: PrivacyPolicy
+  url: https://www.testlio.com/privacy-policy
+- type: GitHubOrganization
+  url: https://github.com/Testlio
+- type: TrustCenter
+  url: https://trust.testlio.com/
+- type: Compliance
+  url: https://trust.testlio.com/
+- type: TrustCenter
+  name: Trust Center artifact
+  url: security/testlio-trust-center.yml
+- type: DomainSecurity
+  url: security/testlio-domain-security.yml
+- type: Packages
+  url: packages/testlio-packages.yml
+- type: LLMsTxt
+  url: llms/testlio-llms.txt

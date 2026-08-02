@@ -1,0 +1,23 @@
+generated: '2026-07-21'
+method: searched
+source: https://trust.testlio.com/
+probe: true
+url: https://trust.testlio.com/
+# Testlio publishes a hosted Trust Center. The security-programs probe could not
+# key-match the page body (JS-rendered trust portal), so certifications below are
+# captured from the provider's public trust center + web search evidence, verbatim
+# to what Testlio states publicly. Not fabricated.
+certifications:
+- ISO/IEC 27001:2022
+- SOC 2 Type 2
+notes: >-
+  Testlio maintains a public Trust Center at trust.testlio.com covering its
+  information-security program. ISO/IEC 27001:2022 certification and a SOC 2
+  Type 2 report are the named frameworks. GDPR/CCPA data-protection posture is
+  referenced in Testlio's privacy materials but not asserted here without a
+  direct citation.
+evidence:
+- source: https://trust.testlio.com/
+  keywords: [trust center, iso 27001, soc 2]
+- source: https://www.testlio.com/
+  kind: web-search-confirmation

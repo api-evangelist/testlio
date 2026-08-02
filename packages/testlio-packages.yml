@@ -1,0 +1,28 @@
+generated: '2026-07-21'
+method: searched
+source: https://github.com/Testlio
+# Testlio publishes no API client SDK (there is no public REST API). What it does
+# ship first-party are CI/CD integration packages that push builds/results into
+# the Testlio platform. Recorded as Packages; NOT wired as SDKs (these are
+# integration plugins, not API client libraries).
+packages:
+- language: yaml
+  registry: circleci-orbs
+  name: testlio/testlio
+  url: https://circleci.com/developer/orbs/orb/testlio/testlio
+  source: https://github.com/Testlio/testlio-circleci-orb
+  official: true
+  kind: ci-cd-orb
+- language: java
+  registry: github
+  name: testlio-jenkins-plugin
+  url: https://github.com/Testlio/testlio-jenkins-plugin
+  official: true
+  kind: ci-cd-plugin
+- language: python
+  registry: github
+  name: testlio-automation-py
+  url: https://github.com/Testlio/testlio-automation-py
+  official: true
+  archived: true
+  kind: test-automation-utilities

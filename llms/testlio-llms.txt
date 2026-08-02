@@ -1,0 +1,159 @@
+# Your Software Testing Partner - Testlio
+
+> Tackle the most demanding software testing challenges with Testlio in any location, on any device, in any language, or on any payment system.
+
+## LeoInsights™
+[LeoInsights™](https://www.testlio.com/platform/leoai/leoinsights)
+
+## Become a tester
+[Become a tester](https://www.testlio.com/join-the-community)
+
+## Log In
+[Log In](https://platform.testlio.com/login)
+
+## Why we are different See what makes Testlio the leading choice for enterprises.
+[Why we are different See what makes Testlio the leading choice for enterprises.](https://www.testlio.com/the-testlio-difference)
+
+## Our solutions A breakdown of our core QA services and capabilities.
+[Our solutions A breakdown of our core QA services and capabilities.](https://www.testlio.com/solutions-overview)
+
+## The Testlio community Learn about our curated community of expert testers.
+[The Testlio community Learn about our curated community of expert testers.](https://www.testlio.com/community)
+
+## Our platform Dive into the technology behind Testlio’s testing engine.
+[Our platform Dive into the technology behind Testlio’s testing engine.](https://www.testlio.com/platform)
+
+## Leo AI Engine™Meet the proprietary intelligence technology that powers our platform.
+[Leo AI Engine™Meet the proprietary intelligence technology that powers our platform.](https://www.testlio.com/platform/leoai)
+
+## Become a partner Explore how you can partner with us through TAPP.
+[Become a partner Explore how you can partner with us through TAPP.](https://www.testlio.com/partners)
+
+## Why crowdsourced testing?Discover how our managed model drives quality at scale.
+[Why crowdsourced testing?Discover how our managed model drives quality at scale.](https://www.testlio.com/crowdsourced-testing)
+
+## Manual testing
+[Manual testing](https://www.testlio.com/solutions/manual-testing)
+
+## Payment testing
+[Payment testing](https://www.testlio.com/solutions/payments-testing)
+
+## AI testing
+[AI testing](https://www.testlio.com/solutions/ai-testing)
+
+## Functional testing
+[Functional testing](https://www.testlio.com/solutions/functional-testing)
+
+## Regression testing
+[Regression testing](https://www.testlio.com/solutions/regression-testing)
+
+## Accessibility testing
+[Accessibility testing](https://www.testlio.com/solutions/accessibility-testing)
+
+## Localization testing
+[Localization testing](https://www.testlio.com/solutions/localization-testing)
+
+## Customer journey testing
+[Customer journey testing](https://www.testlio.com/solutions/customer-journey-testing)
+
+## Usability testing
+[Usability testing](https://www.testlio.com/solutions/usability-testing)
+
+## Mobile app testing
+[Mobile app testing](https://www.testlio.com/solutions/mobile-application-testing)
+
+## Web testing
+[Web testing](https://www.testlio.com/solutions/web-application-testing)
+
+## Location testing
+[Location testing](https://www.testlio.com/solutions/location-testing)
+
+## Stream testing
+[Stream testing](https://www.testlio.com/solutions/livestream-testing)
+
+## Voice testing
+[Voice testing](https://www.testlio.com/solutions/voice-testing)
+
+## Commerce & Retail
+[Commerce & Retail](https://www.testlio.com/solutions/industry/commerce-retail)
+
+## Finance & Banking
+[Finance & Banking](https://www.testlio.com/solutions/industry/finance-banking)
+
+## Health & Wellness
+[Health & Wellness](https://www.testlio.com/solutions/industry/health-wellness-companies)
+
+## Media & Entertainment
+[Media & Entertainment](https://www.testlio.com/solutions/industry/media-entertainment)
+
+## Learning & Education
+[Learning & Education](https://www.testlio.com/solutions/industry/learning-education)
+
+## Mobility & Travel
+[Mobility & Travel](https://www.testlio.com/solutions/industry/mobility-travel)
+
+## Software & Services
+[Software & Services](https://www.testlio.com/solutions/industry/software-b2b)
+
+## Engineering teams
+[Engineering teams](https://www.testlio.com/solutions/engineering-teams)
+
+## QA teams
+[QA teams](https://www.testlio.com/solutions/qa-teams)
+
+## Product teams
+[Product teams](https://www.testlio.com/solutions/product-teams)
+
+## Blog Insights, trends, and expert perspectives on modern software testing.
+[Blog Insights, trends, and expert perspectives on modern software testing.](https://www.testlio.com/blog)
+
+## Webinars & Events Live and on-demand sessions with QA leaders and product experts.
+[Webinars & Events Live and on-demand sessions with QA leaders and product experts.](https://www.testlio.com/events)
+
+## Case studies Real-world examples of how Testlio helps teams deliver quality at scale.
+[Case studies Real-world examples of how Testlio helps teams deliver quality at scale.](https://www.testlio.com/case-studies)
+
+## About us Learn about our company and the value we deliver to global brands.
+[About us Learn about our company and the value we deliver to global brands.](https://www.testlio.com/about-us)
+
+## Careers Explore opportunities to join our team and become a Test Lion.
+[Careers Explore opportunities to join our team and become a Test Lion.](https://www.testlio.com/careers)
+
+## News Visit the newsroom to read our latest updates and press releases.
+[News Visit the newsroom to read our latest updates and press releases.](https://www.testlio.com/news)
+
+## Contact sales
+[Contact sales](https://www.testlio.com/contact-sales)
+
+## Voted #1 Testing Partner
+[Voted #1 Testing Partner](https://www.g2.com/products/testlio/reviews)
+
+## Media & Entertainment From Device Diversity to Holiday Readiness: How Hallmark Delivers Flawless Streaming Read how Hallmark+ partnered with Testlio to ensure flawless streaming across 13 platforms, saving $1.34M annually and improving app reliability.Read more
+[Media & Entertainment From Device Diversity to Holiday Readiness: How Hallmark Delivers Flawless Streaming Read how Hallmark+ partnered with Testlio to ensure flawless streaming across 13 platforms, saving $1.34M annually and improving app reliability.Read more](https://www.testlio.com/customers/hallmark)
+
+## Health & Wellness Why athenahealth Relies on Testlio to Deliver Healthcare App Quality That Saves Lives at Scale Learn how athenahealth relies on Testlio to ensure quality for the epocrates app, supporting 1M+ healthcare providers with reliable, bi-weekly mobile releases.Read more
+[Health & Wellness Why athenahealth Relies on Testlio to Deliver Healthcare App Quality That Saves Lives at Scale Learn how athenahealth relies on Testlio to ensure quality for the epocrates app, supporting 1M+ healthcare providers with reliable, bi-weekly mobile releases.Read more](https://www.testlio.com/customers/athenahealth)
+
+## Finance & Banking How Bit Pay Leverages Testlio to Reduce Customer-Reported Issues By 15% Worldwide See how Bit Pay reduced customer-reported issues significantly with Testlio. Scalable, global QA ensures reliable crypto payments and smoother mobile releases.Read more
+[Finance & Banking How Bit Pay Leverages Testlio to Reduce Customer-Reported Issues By 15% Worldwide See how Bit Pay reduced customer-reported issues significantly with Testlio. Scalable, global QA ensures reliable crypto payments and smoother mobile releases.Read more](https://www.testlio.com/customers/bitpay-reduces-customer-issues)
+
+## LinkedIn
+[LinkedIn](https://www.linkedin.com/company/testlio)
+
+## Contact Us
+[Contact Us](https://www.testlio.com/contact-testlio)
+
+## Notices
+[Notices](https://www.testlio.com/notices)
+
+## Privacy Policy
+[Privacy Policy](https://www.testlio.com/privacy-policy)
+
+## Terms of Use
+[Terms of Use](https://www.testlio.com/terms)
+
+## Modern Slavery Policy
+[Modern Slavery Policy](https://www.testlio.com/modern-day-slavery-policy)
+
+## Trust Center
+[Trust Center](https://trust.testlio.com/)
